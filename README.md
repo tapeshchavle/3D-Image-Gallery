@@ -14,8 +14,6 @@ Customizable: The gallery is easily customizable, allowing you to change the ima
 
 # User Interface
 
-<hr>
- 
 ![Demo](./video/rotateimg.gif)
 
 # Technologies Used
