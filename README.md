@@ -16,7 +16,7 @@ Customizable: The gallery is easily customizable, allowing you to change the ima
 
 <hr>
  
-![Demo](./video/rotateimg.mp4)
+![Demo](./video/rotateimg.gif)
 
 # Technologies Used
 
@@ -29,7 +29,7 @@ JavaScript: Handles the rotation logic, user interactions, and dynamic updates t
 # Installation
 
 <pre>
-To use the 3D Rotate Image Gallery, simply download the repository and open the index.html file in your web browser. No additional setup is required.
+To use the 3D Rotate Image Gallery, simply download the repository and open the index.<br>html file in your web browser. No additional setup is required.
 
 Usage
 Clone the repository:
@@ -38,7 +38,7 @@ bash
 Copy code
 </pre>
 
-git clone https://github.com/tapeshchavle/3D-Image-gallery.git
+git clone https://github.com/tapeshchavle/3D-Image-Gallery.git
 
 <pre>
 Open the project directory:
